@@ -18,6 +18,7 @@ function exibirTextoNaTela (tag, texto){
 function exibirMensagemInicial(){
     exibirTextoNaTela('h1', 'Jogo do número secreto');
     exibirTextoNaTela('p', 'Olá Charlles, vamos jogar? Escolha o número entre 1 e 10!');
+
 }
 
 exibirMensagemInicial()
